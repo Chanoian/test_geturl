@@ -1,1 +1,5 @@
-# test_geturl
+Inventory_hostname=hostname
+Total_memory_in_MB=memory
+BIOS_version=biosversion
+VDA_SIZE=vdasize
+VDB_SIZE=vdbsize
